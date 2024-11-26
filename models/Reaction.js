@@ -30,4 +30,8 @@ const reactionSchema = new Schema(
   }
 );
 
+<<<<<<< HEAD
 module.exports = reactionSchema;
+=======
+module.exports = reactionSchema;
+>>>>>>> bb890564d085e92d382bffca92b8cb08ca517af2
